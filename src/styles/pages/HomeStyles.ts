@@ -14,7 +14,7 @@ to{
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
-  max-width: 50%;
+  max-width: 400px;
   /* justify-content: center; */
   align-items: center;
   margin: 0 auto;
@@ -51,7 +51,7 @@ export const Container = styled.div`
   }
 
   select {
-    width: 400px;
+    width: 90%;
     height: 36px;
     display: flex;
     border: solid 1px #dbdbdb;
