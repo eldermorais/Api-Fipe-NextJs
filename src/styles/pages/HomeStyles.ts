@@ -14,7 +14,7 @@ to{
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
-  max-width: 50%;
+  max-width: 500px;
   /* justify-content: center; */
   align-items: center;
   margin: 0 auto;
