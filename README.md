@@ -1,7 +1,7 @@
 # ConsulteFipe
-<img align="center" alt="GIF" src="/public/png-transparent-logo-car.png" width="60px" /> Aplicação para Consulta de veículos na tabela Fipe
+<img align="center" alt="GIF" src="/public/png-transparent-logo-car.PNG" width="60px" /> Aplicação para Consulta de veículos na tabela Fipe
 
-<img align="center" alt="GIF" src="/public/ConsulteFipe.gif" width="30%" />
+<img align="center" alt="GIF" src="/public/ConsulteFipe.GIF" width="30%" />
 
 <br />
 
