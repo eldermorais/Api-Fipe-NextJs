@@ -3,6 +3,9 @@
 
 <img align="center" alt="GIF" src="/public/ConsulteFipe.gif" width="50%" />
 
+### Experimente
+https://consultefipe.netlify.app
+
 <br />
 
 Este projeto visa o aprendizado do NextJs, TypeScript, Styled-Components
