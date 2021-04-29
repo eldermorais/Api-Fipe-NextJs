@@ -92,7 +92,7 @@ export default function Home() {
   return (
     <Container>
       <Head>
-        <title>ConsultaFipe</title>
+        <title>ConsulteFipe</title>
       </Head>
       <h1>Tabela Fipe</h1>
       <p>Carros, Motos e Caminhões</p>
